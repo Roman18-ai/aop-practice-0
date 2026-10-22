@@ -50,3 +50,6 @@ Claude Code було встановлено, але для авторизаці�
 
 ## Скріншоти
 До звіту потрібно додати скріншоти результатів команд і виконання програми.
+### HackerRank — Welcome to Java!
+
+![Успішне виконання завдання Welcome to Java](screenshots/hackerrank-welcome-java.png)
