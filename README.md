@@ -52,4 +52,9 @@ Claude Code було встановлено, але для авторизаці�
 До звіту потрібно додати скріншоти результатів команд і виконання програми.
 ### HackerRank — Welcome to Java!
 
-![Скриншот HackerRank](screenshots/hackerrank-welcome-java.png)
+![Скриншот HackerRank](screenshots/hackerrank-welcome-java.png) 
+## Навчальні профілі
+
+- **GitHub:** https://github.com/Roman18-ai
+- **HackerRank:** https://www.hackerrank.com/profile/romanchiks333
+- **LeetCode:** https://leetcode.com/u/RomanShevchenko/
